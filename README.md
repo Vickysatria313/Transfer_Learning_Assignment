@@ -1,2 +1,4 @@
 # Transfer_Learning_Assignment
-Transfer Learning — Klasifikasi Objek (Api)
+Nama: vicky satria irawan
+NIM : 4222401069
+
